@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://www.teahub.io/photos/full/5-53486_2560x1600-hot-coffee-cup-grains-hd-wallpaper-data.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.container-fluid {
+    margin-top: 50px;
+    
+}
+
+.card {
+    background-color:rgb(231, 166, 91);
+    width: 18rem;
+    margin: 0 auto;
+}
